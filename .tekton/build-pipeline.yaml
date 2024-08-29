@@ -222,7 +222,7 @@ spec:
       - name: revision
         value: main
       - name: pathInRepo
-        value: task/buildah-remote-oci-ta/0.2/buildah-remote-oci-ta.yamll
+        value: task/buildah-remote-oci-ta/0.2/buildah-remote-oci-ta.yaml
       resolver: git
       ##
     when:
